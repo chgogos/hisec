@@ -1,18 +1,30 @@
 # Χρήσιμες πληροφορίες για την εγκατάσταση
 
-## Jekyll themes
+## Βήματα εγκατάστασης σε Windows
 
-* [massively](https://github.com/jekyllup/jekyll-theme-massively)
+1. Download RubyInstaller (https://rubyinstaller.org/) και εγκατάσταση του Ruby+Devkit 2.7.5-1 (x64), σταδιακή εγκατάσταση 1,2,3
+2. Αντιγραφή repository
 
-## Βήματα εγκατάστασης 
+```
+$ git clone https://github.com/chgogos/hisec
+$ cd hisec
+$ gem install bundler:2.3.6
+$ bundle install
+```
 
-### Windows
+3. Δοκιμή τοπικά στο http://127.0.0.1:4000/
 
-* Download RubyInstaller (https://rubyinstaller.org/)
-* Install Ruby+Devkit 2.7.5-1 (x64)
+```   
+$ bundle exec jekyll serve
+```
 
-### Εγκατάσταση jekyll static generator
+4. Ιστοσελίδα στο web https://chgogos.github.io/hisec/
+   
 
-### OSX
+---
+
+## Jekyll theme
+
+* [massively theme](https://github.com/jekyllup/jekyll-theme-massively)
 
 
