@@ -12,13 +12,13 @@ $ gem install bundler:2.3.6
 $ bundle install
 ```
 
-3. Δοκιμή τοπικά στο http://127.0.0.1:4000/
+3. Δοκιμή τοπικά στο http://127.0.0.1:4000/ (αλλαγή στο _config.yml σε baseurl: "")
 
 ```   
 $ bundle exec jekyll serve
 ```
 
-4. Ιστοσελίδα στο web https://chgogos.github.io/hisec/
+4. Ιστοσελίδα στο web https://chgogos.github.io/hisec/ (αλλαγή στο _config.yml σε baseurl: "hisec")
    
 
 ---
