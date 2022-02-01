@@ -4,7 +4,7 @@ bio:                'ΠΡΩΤΟ ΘΕΡΙΝΟ ΣΧΟΛΕΙΟ ΙΣΤΟΡΙΑΣ Κ�
 description:        "ΠΡΩΤΟ ΘΕΡΙΝΟ ΣΧΟΛΕΙΟ ΙΣΤΟΡΙΑΣ ΚΑΙ ΟΙΚΟΝΟΜΙΑΣ ΣΤΗΝ ΠΡΕΒΕΖΑ"
 locale:             en_US
 # locale:             el_GR
-# baseurl: "/sschool_econ_hist" # the subpath of your site, e.g. /blog
+baseurl: "hisec" # the subpath of your site, e.g. /blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
