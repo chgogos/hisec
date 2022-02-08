@@ -7,6 +7,7 @@ locale:             en_US
 baseurl: "/hisec" # the subpath of your site, e.g. /blog - ΑΝΕΒΑΣΜΑ ΣΤΟ GITHUB
 # baseurl: "" # the subpath of your site, e.g. /blog - ΔΟΚΙΜΗ ΤΟΠΙΚΑ
 url: "https://chgogos.github.io" # the base hostname & protocol for your site
+# url: "" # the base hostname & protocol for your site - ΔΟΚΙΜΗ ΤΟΠΙΚΑ
 
 # Comments
 disqus_shortname:   christos_gogos
@@ -64,7 +65,8 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://chgogos.github.io
+    # base_url: https://github.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
