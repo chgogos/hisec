@@ -22,8 +22,12 @@ sitemap:
 ### ΜΑΘΕΤΕ ΓΙΑ ΤΗΝ ΠΡΕΒΕΖΑ
 
 * [Περιφερειακή Ενότητα Πρέβεζας - Περιφέρεια Ηπείρου](https://preveza.gr/)
-* [Πρέβεζα (discover Preveza)](http://discoverpreveza.gr/)
-* [Αρχαιολογικό μουσείο Πρέβεζας](https://nicopolismuseum.gr/)
+* [Δήμος Πρέβεζας](http://www.dimosprevezas.gr/) 
+* [ΓΑΚ Αρχεία Νομού Πρέβεζας](http://gak.pre.sch.gr/) 
+* [Αρχαιολογικό μουσείο Νικόπολης](https://nicopolismuseum.gr/)
+* [Preveza Jazz Festival](https://www.prevezajazzfestival.com/)
+* [discover Preveza](http://discoverpreveza.gr/)
+* [visit Preveza](https://www.visitpreveza.gr/)
 
 <!-- ### Content is Imortant
 <div class="box">
