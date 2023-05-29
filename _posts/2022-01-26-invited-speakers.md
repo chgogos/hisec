@@ -8,8 +8,8 @@ image: "/images/pexels-pixabay-207691_small.png"
 
 ## ΠΡΟΣΚΕΚΛΗΜΕΝΟΙ ΟΜΙΛΗΤΕΣ
 
-* Νικόλαος Φαραντούρης - Καθηγητής στο Τμήμα Διεθνών και Ευρωπαϊκών Σπουδών του Πανεπιστημίου Πειραιώς
-* Γεώργιος Πάνος - Καθηγητής στο Adam Smith Business School, του University of Glasgow
+* [Νικόλαος Φαραντούρης](https://farantouris.eu/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/) - Καθηγητής στο Τμήμα Διεθνών και Ευρωπαϊκών Σπουδών του Πανεπιστημίου Πειραιώς
+* [Γεώργιος Πάνος](https://www.gla.ac.uk/schools/business/staff/georgiospanos/) - Καθηγητής στο Adam Smith Business School, του University of Glasgow
 
 <!-- * Βήλος Γεώργιος - Γενικός Διευθυντής Εμπορικής & Επιχειρηματικής Ανάπτυξης- Fraport Greece -->
 
