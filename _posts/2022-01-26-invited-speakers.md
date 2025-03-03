@@ -8,10 +8,10 @@ image: "/images/pexels-pixabay-207691_small.png"
 
 ## ΠΡΟΣΚΕΚΛΗΜΕΝΟΙ ΟΜΙΛΗΤΕΣ 
 
-* [Μάνθος Ντελής](https://manthosdelis.wixsite.com/manthosdelis) Καθηγητής FINANCIAL ECONOMICS, AUDENCIA BUSINESS SCHOOL, εξωτερικό μέλος του Συμβουλίου Διοίκησης του Πανεπιστημίου Ιωαννίνων.
-* [Μαρκόπουλος Μιχάλης](https://www.dioptra.gr/suggrafeas/mixalis-makropoulos) Μεταφραστής και λογοτέχνης.
-* [Νιτσιάκος Βασίλης](http://users.uoi.gr/gramisar/prosopiko/nitsiakos/) Καθηγητής Κοινωνικής Λαογραφίας της Φιλοσοφικής Σχολής του Πανεπιστημίου Ιωαννίνων.  
-* [Σειρηνίδου Βάσω](https://nsiit.arch.uoa.gr/akadimaiko_prosopiko/basiliki_seirinidoy/) Αναπληρώτρια Καθηγήτρια Ιστορίας του Νέου Ελληνισμού στο Τμήμα Ιστορίας και Αρχαιολογίας του ΕΚΠΑ.
+* [Μάνθος Ντελής](https://manthosdelis.wixsite.com/manthosdelis), Καθηγητής FINANCIAL ECONOMICS, AUDENCIA BUSINESS SCHOOL, εξωτερικό μέλος του Συμβουλίου Διοίκησης του Πανεπιστημίου Ιωαννίνων.
+* [Μακρόπουλος Μιχάλης](https://www.dioptra.gr/suggrafeas/mixalis-makropoulos), Μεταφραστής και Λογοτέχνης.
+* [Νιτσιάκος Βασίλης](http://users.uoi.gr/gramisar/prosopiko/nitsiakos/), Καθηγητής Κοινωνικής Λαογραφίας της Φιλοσοφικής Σχολής του Πανεπιστημίου Ιωαννίνων.  
+* [Σειρηνίδου Βάσω](https://nsiit.arch.uoa.gr/akadimaiko_prosopiko/basiliki_seirinidoy/), Αναπληρώτρια Καθηγήτρια Ιστορίας του Νέου Ελληνισμού στο Τμήμα Ιστορίας και Αρχαιολογίας του ΕΚΠΑ.
 
 <!-- ## Features
 ### Auto-Generating Sitemap

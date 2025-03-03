@@ -13,8 +13,8 @@ image: "/images/pexels-fauxels-3184317_small.png"
 3. [Καρανάτσης Κωνσταντίνος](https://econ.uoi.gr/didaskontes/karanatsis-konstantinos/), Αναπληρωτής Καθηγητής Τμήματος Οικονομικών Επιστημών Πανεπιστημίου Ιωαννίνων
 4. [Κουμανάκος Ευάγγελος](https://www.eap.gr/dep/koumanakos/), Αναπληρωτής Καθηγητής Σχολής Κοινωνικών Επιστημών του Ελληνικού Ανοικτού Πανεπιστημίου
 5. [Μανδυλαρά Άννα](http://users.uoi.gr/gramisar/istorias_neoteron_chronon/mandylara.htm), Αναπληρώτρια Καθηγήτρια Τμήματος Ιστορίας και Αρχαιολογίας Πανεπιστημίου Ιωαννίνων
-6. [Σκουλίδας Ηλίας](), ΕΠίκουρος καθηγητής Τμήματος Μουσικών Σπουδών Πανεπιστημίου Ιωαννίνων
-6. [Φλιτούρης Λάμπρος](http://users.uoi.gr/gramisar/istorias_neoteron_chronon/flitouris.htm), Αναπληρωτής Καθηγητής Τμήματος Ιστορίας και Αρχαιολογίας Πανεπιστημίου Ιωαννίνων
+6. [Σκουλίδας Ηλίας](https://music.uoi.gr/ilias-g-skoylidas/), Επίκουρος Καθηγητής Τμήματος Μουσικών Σπουδών Πανεπιστημίου Ιωαννίνων
+7. [Φλιτούρης Λάμπρος](http://users.uoi.gr/gramisar/istorias_neoteron_chronon/flitouris.htm), Αναπληρωτής Καθηγητής Τμήματος Ιστορίας και Αρχαιολογίας Πανεπιστημίου Ιωαννίνων
 
 <!-- ## Features
 ### Auto-Generating Sitemap
