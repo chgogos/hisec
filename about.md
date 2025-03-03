@@ -8,28 +8,20 @@ sitemap:
     changefreq: weekly
 ---
 
-## ΓΙΑ ΤΟ ΘΕΡΙΝΟ ΣΧΟΛΕΙΟ ΣΤΗΝ ΠΡΕΒΕΖΑ
+## ΓΙΑ ΤΟ ΘΕΡΙΝΟ ΣΧΟΛΕΙΟ HISEC
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-Το θερινό σχολείο Ιστορίας και Οικονομίας θα λειτουργήσει για τρίτη φορά στην Πρέβεζα τον Ιούνιο του 2024. 
+Το θερινό σχολείο Ιστορίας και Οικονομίας θα λειτουργήσει για τέταρτο συνεχόμενο έτος, αυτή την φορά στο Δελβινάκι Πωγωνίου τον Ιούλιο του 2025. 
 
-<!-- * [Πρώτο θερινό σχολείο Ιστορίας και οικονομίας](https://hisec.accfin.uoi.gr/hisec2022/) -->
+* [Πρώτο Θερινό Σχολείο Ιστορίας και Οικονομίας στην Πρέβεζα - Οικονομικές Κρίσεις και Ιστορικότητες](https://hisec.accfin.uoi.gr/hisec2022/)
+* [Δεύτερο Θερινό Σχολείο Ιστορίας και Οικονομίας στην Πρέβεζα - Μετασχηματισμοί της Εργασίας](https://hisec.accfin.uoi.gr/hisec2023/)
+* [Τρίτο Θερινό Σχολείο Ιστορίας και Οικονομίας στην Πρέβεζα - Μετανάστες και Πρόσφυγες Μεταξύ Πολιτικής και Οικονομίας](https://hisec.accfin.uoi.gr/hisec2024/)
 
-<br/>
 <br/>
 
 ---
 
-### ΜΑΘΕΤΕ ΓΙΑ ΤΗΝ ΠΡΕΒΕΖΑ
-
-* [Περιφερειακή Ενότητα Πρέβεζας - Περιφέρεια Ηπείρου](https://preveza.gr/)
-* [Δήμος Πρέβεζας](http://www.dimosprevezas.gr/) 
-* [ΓΑΚ Αρχεία Νομού Πρέβεζας](http://gak.pre.sch.gr/) 
-* [Αρχαιολογικό μουσείο Νικόπολης](https://nicopolismuseum.gr/)
-* [Preveza Jazz Festival](https://www.prevezajazzfestival.com/)
-* [discover Preveza](http://discoverpreveza.gr/)
-* [visit Preveza](https://www.visitpreveza.gr/)
 
 <!-- ### Content is Imortant
 <div class="box">

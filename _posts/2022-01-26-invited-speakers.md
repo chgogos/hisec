@@ -2,17 +2,16 @@
 layout: post
 title:  "ΟΜΙΛΗΤΕΣ"
 date:   2022-01-26
-excerpt: "Το θερινό σχολείο θα το τιμήσουν με την παρουσία τους διακεκριμένες προσωπικότητες που θα συμμετέχουν στις κεντρικές ομιλίες."
+excerpt: "Το θερινό σχολείο θα το τιμήσουν με την παρουσία τους διακεκριμένες προσωπικότητες που θα συμμετέχουν στις κεντρικές ομιλίες και στην στογγυλή τράπεζα."
 image: "/images/pexels-pixabay-207691_small.png"
 ---
 
-## ΠΡΟΣΚΕΚΛΗΜΕΝΟΙ ΟΜΙΛΗΤΕΣ
+## ΠΡΟΣΚΕΚΛΗΜΕΝΟΙ ΟΜΙΛΗΤΕΣ 
 
-* [Νικόλαος Φαραντούρης](https://farantouris.eu/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/) - Καθηγητής στο Τμήμα Διεθνών και Ευρωπαϊκών Σπουδών του Πανεπιστημίου Πειραιώς
-* [Γεώργιος Πάνος](https://www.gla.ac.uk/schools/business/staff/georgiospanos/) - Καθηγητής στο Adam Smith Business School, του University of Glasgow
-
-<!-- * Βήλος Γεώργιος - Γενικός Διευθυντής Εμπορικής & Επιχειρηματικής Ανάπτυξης- Fraport Greece -->
-
+* [Μάνθος Ντελής](https://manthosdelis.wixsite.com/manthosdelis) Καθηγητής FINANCIAL ECONOMICS, AUDENCIA BUSINESS SCHOOL, εξωτερικό μέλος του Συμβουλίου Διοίκησης του Πανεπιστημίου Ιωαννίνων.
+* [Μαρκόπουλος Μιχάλης](https://www.dioptra.gr/suggrafeas/mixalis-makropoulos) Μεταφραστής και λογοτέχνης.
+* [Νιτσιάκος Βασίλης](http://users.uoi.gr/gramisar/prosopiko/nitsiakos/) Καθηγητής Κοινωνικής Λαογραφίας της Φιλοσοφικής Σχολής του Πανεπιστημίου Ιωαννίνων.  
+* [Σειρηνίδου Βάσω](https://nsiit.arch.uoa.gr/akadimaiko_prosopiko/basiliki_seirinidoy/) Αναπληρώτρια Καθηγήτρια Ιστορίας του Νέου Ελληνισμού στο Τμήμα Ιστορίας και Αρχαιολογίας του ΕΚΠΑ.
 
 <!-- ## Features
 ### Auto-Generating Sitemap
